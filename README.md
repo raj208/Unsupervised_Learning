@@ -35,6 +35,6 @@ This project demonstrates the application of PCA for dimensionality reduction an
 - Elbow plot to select optimal `k` for K-Means.
 - Silhouette coefficients for clustering quality assessment.
 
-![Elbow Plot for Optimal Cluster Selection](screenshot/download(2).png)
+![Elbow Plot for Optimal Cluster Selection](screenshot/download2.png)
 ![Cluster Visualization After PCA (Test Data)](screenshot/download.png)
-![Silhouette Coefficients for Cluster Quality Evaluation](screenshot/download(1).png)
+![Silhouette Coefficients for Cluster Quality Evaluation](screenshot/download1.png)
