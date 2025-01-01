@@ -28,7 +28,7 @@ This project demonstrates the application of PCA for dimensionality reduction an
 ![Elbow Plot for Optimal Cluster Selection](screenshot/download2.png)
 ![Cluster Visualization After PCA (Test Data)](screenshot/download.png)
 ![Silhouette Coefficients for Cluster Quality Evaluation](screenshot/download1.png)
-
+#
 
 # PCA and Agglomerative Clustering
 
@@ -82,7 +82,7 @@ Agglomerative Clustering is a hierarchical clustering method that builds cluster
 - **Dendrogram**: Shows the hierarchical structure of clustering.
 - **2D Scatter Plot**: Visualizes clusters after dimensionality reduction.
 - **Silhouette Scores Plot**: Evaluates clustering quality for different numbers of clusters.
-
+#
 
 # Clustering using DBSCAN
 
