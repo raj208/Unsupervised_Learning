@@ -1,6 +1,6 @@
 # PCA and K-Means Clustering
 
-This project demonstrates the application of PCA for dimensionality reduction and K-Means clustering for unsupervised learning.
+This project demonstrates the application of PCA for dimensionality reduction and K-Means clustering for unsupervised learning from Scratch.
 
 ## Steps Implemented:
 
